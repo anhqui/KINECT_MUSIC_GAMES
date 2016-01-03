@@ -1,0 +1,43 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Karaoke_v2.csproj.GenerateResource.Cache
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Freeplay.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Randomness.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Karaoke_v2.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\bin\Debug\Karaoke_v2.exe
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\bin\Debug\Karaoke_v2.pdb
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\Karaoke_v2.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Randomness.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Freeplay.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\Karaoke_v2.csproj.GenerateResource.Cache
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\Karaoke_v2.exe
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\Karaoke_v2.pdb
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song1.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song2.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song3.resources
+C:\Users\Julia\Documents\uOttawa\Winter\Kinect Things\Karaoke_v2\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song4.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\Karaoke_v2.exe
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\Karaoke_v2.pdb
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\bin\Debug\Karaoke_v2.exe
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\bin\Debug\Karaoke_v2.pdb
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\Karaoke_v2.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Randomness.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Freeplay.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song1.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song2.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song3.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\WindowsFormsApplication1.Song4.resources
+C:\Users\Julia\Desktop\Multimedia Communications Project\Karaoke_v2\obj\x86\Debug\Karaoke_v2.csproj.GenerateResource.Cache
